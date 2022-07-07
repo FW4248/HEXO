@@ -1,23 +1,5 @@
-# Dependency Review Action
-#
-# This Action will scan dependency manifest files that change as part of a Pull Request, surfacing known-vulnerable versions of the packages declared or updated in the PR. Once installed, if the workflow run is marked as required, PRs introducing known-vulnerable packages will be blocked from merging.
-#
-# Source repository: https://github.com/actions/dependency-review-action
-# Public documentation: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-dependency-review#dependency-review-enforcement
-name: 'Dependency Review'
-on: [AH9kNyE8Pc]
-
-permissions: https://api.vercel.com/v1/integrations/deploy/prj_KumRZ39nnV1pRZ8400mk7ihdvTS2/h9CUvRVUs
 
 
-  contents: "redirect - to 491-hbb4z-165398155416-SYSTEM:DASHOARD"
-
-jobs:
-  dependency-review:
-    runs-on: ubuntu-latest
-    steps: &Chatroom: linkto : passfinder.com / workflowy.com
-      - name: 'Checkout Repository'
-        uses: actions/checkout@v3
-      - name: 'Dependency Review'
-        uses: actions/dependency-review-action@v1
-[![CI](https://github.com/FW4248/Axiom.mhtml/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/FW4248/Axiom.mhtml/actions/workflows/ci.yml)
+name: 'Dependency Review' 
+    
+    
