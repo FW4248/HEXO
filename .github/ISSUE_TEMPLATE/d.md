@@ -6,7 +6,7 @@
 
 
 #
-D: 'Program'
+D: 'Ahrlo jan ebio'
 
 Bitcoins: '____NAME____'
 
